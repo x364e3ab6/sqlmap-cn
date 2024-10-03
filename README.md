@@ -15,7 +15,9 @@
 
 ![1727938761163](https://github.com/user-attachments/assets/2fa3639d-8187-4733-9c0c-e9d630d48c66)
 
-''''
+
+## 命令帮助
+
 Usage: sqlmap.exe [选项]
 
 Options:
@@ -291,4 +293,3 @@ Options:
     --unstable          调整不稳定连接的选项
     --update            更新 sqlmap
     --wizard            初学者用户的简单向导界面
-''''
